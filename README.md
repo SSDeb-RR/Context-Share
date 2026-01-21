@@ -1,5 +1,6 @@
 # Context-Share
 Seamlessly transfer conversation contexts across AI platforms (ChatGPT, Claude, Gemini etc)
+
 Link: https://chromewebstore.google.com/detail/lnfidedgegloeljkcgkehegdcpmdjgfl?utm_source=item-share-cb
 
 Context Share enables seamless conversation transfer across AI chat platforms. Switch between ChatGPT, Claude, and Gemini without losing your conversation history.

@@ -26,5 +26,3 @@ Privacy First:
 No data collection. No tracking. Everything happens locally in your browser.
 
 Perfect for users who want flexibility in choosing AI platforms while maintaining conversation continuity.
-
-See less
